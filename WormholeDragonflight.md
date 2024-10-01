@@ -22,4 +22,10 @@ The wormhole for Dragonflight
 /way #2025 63.7 77.1
 /way #2025 50.7 55.7
 
+
+## Forbidden Reach
+/way #2151 78.04, 51.10
+/way #2151 39.99, 81.83
+/way #2151 31.78, 26.22
+
 #wow
