@@ -12,6 +12,7 @@ Seasons in World of Warcraft and their respective dungeons.
   - [Season 4](#season-4-1)
 - [The War Within](#the-war-within)
   - [Season 1](#season-1-1)
+  - [Season 2](#season-2-2)
 
 
 # Shadowlands
@@ -100,6 +101,17 @@ Seasons in World of Warcraft and their respective dungeons.
 - The Necrotic Wake (Shadowlands) ☒
 - Siege of Boralus (Battle for Azeroth) ☒
 - Grim Batol (Cataclysm) ☒
+
+## Season 2
+- Cinderbrew Meadery ☒
+- Darkflame Cleft ☒
+- The Rookery ☒
+- Priory of Sacred Flame ☒
+- The MOTHERLODE!! (Battle for Azeroth) ☒
+- Operation: Floodgate ☒
+- Theater of Pain (Shadowlands) ☒
+- Operation Mechagon: Workshop (Battle for Azeroth) ☒
+
 
 
 #wow #warcraft
