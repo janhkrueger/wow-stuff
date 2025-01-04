@@ -20,17 +20,17 @@ Seasons in World of Warcraft and their respective dungeons.
 ## Season 2
 - De Other Side ☐
 - Halls of Atonement ☐
-- Mists of Tirna Scithe ☒
+- Mists of Tirna Scithe ☐
 - Plaguefall ☐
 - Sanguine Depths ☐
 - Spires of Ascension ☐
-- The Necrotic Wake ☒
+- The Necrotic Wake ☑︎
 - Theater of Pain ☐
 
 ## Season 3
-- The Necrotic Wake ☒
+- The Necrotic Wake ☑︎
 - Plaguefall ☐
-- Mists of Tirna Scithe ☒
+- Mists of Tirna Scithe ☐
 - Halls of Atonement ☐
 - Spires of Ascension ☐
 - Theater of Pain ☐
@@ -93,24 +93,24 @@ Seasons in World of Warcraft and their respective dungeons.
 # The War Within
 
 ## Season 1
-- Ara-Kara, City of Echoes ☒
-- City of Threads ☒
-- The Stonevault ☒
-- The Dawnbreaker ☒
-- Mists of Tirna Scithe (Shadowlands) ☒
-- The Necrotic Wake (Shadowlands) ☒
-- Siege of Boralus (Battle for Azeroth) ☒
-- Grim Batol (Cataclysm) ☒
+- Ara-Kara, City of Echoes ☑︎
+- City of Threads ☐
+- The Stonevault ☐
+- The Dawnbreaker ☐
+- Mists of Tirna Scithe (Shadowlands) ☐
+- The Necrotic Wake (Shadowlands) ☑︎
+- Siege of Boralus (Battle for Azeroth) ☐
+- Grim Batol (Cataclysm) ☐
 
 ## Season 2
-- Cinderbrew Meadery ☒
-- Darkflame Cleft ☒
-- The Rookery ☒
-- Priory of Sacred Flame ☒
-- The MOTHERLODE!! (Battle for Azeroth) ☒
-- Operation: Floodgate ☒
-- Theater of Pain (Shadowlands) ☒
-- Operation Mechagon: Workshop (Battle for Azeroth) ☒
+- Cinderbrew Meadery ☐
+- Darkflame Cleft ☐
+- The Rookery ☐
+- Priory of Sacred Flame ☐
+- The MOTHERLODE!! (Battle for Azeroth) ☐
+- Operation: Floodgate ☐
+- Theater of Pain (Shadowlands) ☐
+- Operation Mechagon: Workshop (Battle for Azeroth) ☐
 
 
 
