@@ -99,7 +99,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - The Dawnbreaker ☐
 - Mists of Tirna Scithe (Shadowlands) ☐
 - The Necrotic Wake (Shadowlands) ☑︎
-- Siege of Boralus (Battle for Azeroth) ☐
+- Siege of Boralus (Battle for Azeroth) ☑︎
 - Grim Batol (Cataclysm) ☐
 
 ## Season 2
