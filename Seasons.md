@@ -94,7 +94,7 @@ Seasons in World of Warcraft and their respective dungeons.
 
 ## Season 1
 - Ara-Kara, City of Echoes ☑︎
-- City of Threads ☐
+- City of Threads ☑︎
 - The Stonevault ☑︎
 - The Dawnbreaker ☐
 - Mists of Tirna Scithe (Shadowlands) ☐
