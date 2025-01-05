@@ -20,7 +20,7 @@ Seasons in World of Warcraft and their respective dungeons.
 ## Season 2
 - De Other Side ☐
 - Halls of Atonement ☐
-- Mists of Tirna Scithe ☐
+- Mists of Tirna Scithe ☑︎
 - Plaguefall ☐
 - Sanguine Depths ☐
 - Spires of Ascension ☐
@@ -30,7 +30,7 @@ Seasons in World of Warcraft and their respective dungeons.
 ## Season 3
 - The Necrotic Wake ☑︎
 - Plaguefall ☐
-- Mists of Tirna Scithe ☐
+- Mists of Tirna Scithe ☑︎
 - Halls of Atonement ☐
 - Spires of Ascension ☐
 - Theater of Pain ☐
@@ -97,7 +97,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - City of Threads ☑︎
 - The Stonevault ☑︎
 - The Dawnbreaker ☐
-- Mists of Tirna Scithe (Shadowlands) ☐
+- Mists of Tirna Scithe (Shadowlands) ☑︎
 - The Necrotic Wake (Shadowlands) ☑︎
 - Siege of Boralus (Battle for Azeroth) ☑︎
 - Grim Batol (Cataclysm) ☑︎
