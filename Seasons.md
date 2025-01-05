@@ -96,7 +96,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Ara-Kara, City of Echoes ☑︎
 - City of Threads ☑︎
 - The Stonevault ☑︎
-- The Dawnbreaker ☐
+- The Dawnbreaker ☑︎
 - Mists of Tirna Scithe (Shadowlands) ☑︎
 - The Necrotic Wake (Shadowlands) ☑︎
 - Siege of Boralus (Battle for Azeroth) ☑︎
