@@ -118,3 +118,10 @@
 - Normal: [Amirdrassil, the Dream's Hope: Up in Smoke](https://www.wowhead.com/quest=78600/amirdrassil-the-dreams-hope-up-in-smoke)
 - Heroic: [Amirdrassil, the Dream's Hope: Up in Smoke](https://www.wowhead.com/quest=78601/amirdrassil-the-dreams-hope-up-in-smoke)
 - Mystic: [Amirdrassil, the Dream's Hope: Up in Smoke](https://www.wowhead.com/quest=78602/amirdrassil-the-dreams-hope-up-in-smoke)
+
+
+### Nerub-ar Palace
+
+- Normal: [Nerub-ar Palace: For Nerubian Eyes Only](https://www.wowhead.com/quest=82629/nerub-ar-palace-for-nerubian-eyes-only)
+- Normal: [Nerub-ar Palace: For Nerubian Eyes Only](https://www.wowhead.com/quest=82638/nerub-ar-palace-for-nerubian-eyes-only)
+- Normal: [Nerub-ar Palace: For Nerubian Eyes Only](https://www.wowhead.com/quest=82639/nerub-ar-palace-for-nerubian-eyes-only)
