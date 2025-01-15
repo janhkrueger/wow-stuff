@@ -123,5 +123,5 @@
 ### Nerub-ar Palace
 
 - Normal: [Nerub-ar Palace: For Nerubian Eyes Only](https://www.wowhead.com/quest=82629/nerub-ar-palace-for-nerubian-eyes-only)
-- Normal: [Nerub-ar Palace: For Nerubian Eyes Only](https://www.wowhead.com/quest=82638/nerub-ar-palace-for-nerubian-eyes-only)
-- Normal: [Nerub-ar Palace: For Nerubian Eyes Only](https://www.wowhead.com/quest=82639/nerub-ar-palace-for-nerubian-eyes-only)
+- Heroic: [Nerub-ar Palace: For Nerubian Eyes Only](https://www.wowhead.com/quest=82638/nerub-ar-palace-for-nerubian-eyes-only)
+- Mystic: [Nerub-ar Palace: For Nerubian Eyes Only](https://www.wowhead.com/quest=82639/nerub-ar-palace-for-nerubian-eyes-only)
