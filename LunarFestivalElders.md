@@ -2,15 +2,33 @@
 
 The Lunar Festival is a returning world event normally starting at the Chinese New Year. The coordinates are for an easy pasting for TomTom.
 
-Make sure to allow waypoints out of your current zone. And that the closest waypoint is choosen no matter of the paste order.
+Make sure to allow waypoints out of your current zone. And that the closest waypoint is choosen no matter of the paste order. This can be achieved with /cway
 
 
 
 ## Continents
+[Dragon Isles](#dragonisles)  
 [Eastern Kingdoms](#easternkingdoms)  
+[Eastern Kingdoms Dungeons](#easternkingdomsdungeons)  
 [Kalimdor](#kalimdor)  
 [Khaz Algar](#khazalgar)
 
+
+<a name="dragonisles"/>
+
+### Dragon Isles
+</a>
+
+```markdown
+/way #2022 46.7 30.9 Iskaara Elder Shomkol
+/way #2022 44.3 63.7 Aylaag Elder
+/way #2023 58.4 31.4 Ohn'ir Elder
+/way #2023 83.9 48.0 Shikaar Elder
+/way #2024 67.4 49.5 Elder Dekidig
+/way #2024 12.9 49.1 Iskaara Elder Nemaglek
+/way #2025 54.9 43.4 Iskaara Elder Sik'ek
+/way #2025 50.1 66.5 Elder Razlok
+```
 
 <a name="easternkingdoms"/>
 
@@ -22,7 +40,6 @@ Make sure to allow waypoints out of your current zone. And that the closest wayp
 /way #17 54.2 49.6 Elder Bellowrage (Blasted Lands), Zidormi time
 /way #37 39.8 63.6 Elder Stormbrow (Elwynn Forest)
 /way #22 65.2 38.7 Elder Meadowrun (Western Plaguelands), Cave Entrance
-/way #50 71.0 34.2 Elder Starglade (Zul'Gurub)
 /way #210 40.0 72.6 Elder Winterhoof (Booty Bay)
 /way #48 33.6 46.4 Elder Silvervein (Loch Modan)
 /way #52 56.6 47.0 Elder Skychaser (Westfall)
@@ -39,16 +56,27 @@ Make sure to allow waypoints out of your current zone. And that the closest wayp
 /way #27 60.4 33.5 Ironforge Entrance (for Bronzebeard)
 /way #87 29.6 18.6 Elder Bronzebeard – Ironforge (Mystic ward)
 /way #18 61.8 69.5 Elder Darkcore (Undercity)
-/way #51 69.4 54.6 Elder Starsong (Sunken Temple), entrance
-/way #36 52.6 24.0 Elders Morndeep (Blackrock Depths)
-/way #36 52.6 24.0 Elders Stonefort (Lower Blackrock Depths))
-/way #23 27.8 11.6 Elder Farwhisper – Stratholme entrance
 /way #205 57.2 86.2 Elder Moonlance (Vash’jr)
 /way #207 27.6 69.2 Elder Deepforge (Deepholm)
 /way #207 49.6 54.8 Elder Stonebrand (Deepholm)
 /way #241 50.8 70.4 Elder Firebeard (Twilight Highlands)
 /way #241 51.8 33.0 Elder Darkfeather (Twilight Highlands)
+/way #50 71.0 34.2 Elder Starglade (Straglethorn Vale)
 ```
+
+<a name="easternkingdomsdungeons"/>
+
+### Eastern Kingdoms Dungeons
+</a>
+
+```markdown
+/way #51 69.4 54.6 Elder Starsong (Sunken Temple), entrance
+/way #36 52.6 24.0 Elder Morndeep (Blackrock Depths)
+/way #36 52.6 24.0 Elder Stonefort (Lower Blackrock Depths))
+/way #23 27.8 11.6 Elder Farwhisper – Stratholme entrance
+```
+
+
 
 <a name="kalimdor"/>
 
