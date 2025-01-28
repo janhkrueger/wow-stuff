@@ -1,6 +1,6 @@
 # Locations of Lunar Festival Elders
 
-The Lunar Festival is a returning world event normally starting at the Chinese New Year.
+The Lunar Festival is a returning world event normally starting at the Chinese New Year. The coordinates are for an easy pasting for TomTom.
 
 
 ## Kalimdor
