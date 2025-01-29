@@ -11,6 +11,7 @@ Make sure to allow waypoints out of your current zone. And that the closest wayp
 [Eastern Kingdoms](#easternkingdoms)  
 [Eastern Kingdoms Dungeons](#easternkingdomsdungeons)  
 [Kalimdor](#kalimdor)  
+[Kalimdor Dungeons](#kalimdordungeons)  
 [Khaz Algar](#khazalgar)  
 [Northrend](#northrend)  
 [Northrend Dungeons](#northrenddungeons)
@@ -116,12 +117,20 @@ These are all, not only one faction and not only the ones needed for the achieve
 /way #198 26.6 62.0 Elder Windsong (Mount Hyjal)
 /way #198 62.6 22.8 Elder Evershade (Mount Hyjal)
 /way #71 51.4 28.8 Elder Wildmane – (Zul'Farrak) dungeon entrance Near Gahz'rilla 
-/way #66 29.4 62.5 Elder Splitrock – (Desolace) Maraudon dungeon entrance
-/way #2100 51.5 93.7 Elder Splitrock (Maraudon), jump in by Rotgrip, swim east, enter tunnel
 /way #57 55.4 88.4 Elder Bladeswift – Portal entrance to Darnassus  
 /way #89 39.6 32.0 Elder Bladeswift - Darnassus
 /way #85 52.6 60.2 Elder Darkhorn (Orgrimmar), Upper Center
 /way #88 73.6 24.0 Elder Ezra Wheathoof (Thunder Bluff), Elder Rise
+```
+
+<a name="kalimdor Dungeons"/>
+
+### Kalimdor Dungeons
+</a>
+
+```markdown
+/way #66 29.4 62.5 Elder Splitrock – (Desolace) Maraudon dungeon entrance
+/way #2100 51.5 93.7 Elder Splitrock (Maraudon), jump in by Rotgrip, swim east, enter tunnel
 ```
 
 <a name="khazalgar"/>
