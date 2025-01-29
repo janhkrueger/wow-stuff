@@ -11,7 +11,11 @@ Make sure to allow waypoints out of your current zone. And that the closest wayp
 [Eastern Kingdoms](#easternkingdoms)  
 [Eastern Kingdoms Dungeons](#easternkingdomsdungeons)  
 [Kalimdor](#kalimdor)  
-[Khaz Algar](#khazalgar)
+[Khaz Algar](#khazalgar)  
+[Northrend](#northrend)  
+[Northrend Dungeons](#northrenddungeons)
+
+
 
 
 <a name="dragonisles"/>
@@ -147,4 +151,46 @@ These are all, not only one faction and not only the ones needed for the achieve
 ```markdown
 /way #2255 66.91 85.53 Elder Ikk'zivan
 /way #2255 46.82 57.21 Elder Ikk'xataz
+```
+
+
+<a name="northrend"/>
+
+### Northrend
+</a>
+
+```markdown
+/way #114 59.0 65.6 Elder Sardis
+/way #116 60.6 27.6 Elder Beldak
+/way #115 29.8 55.8 Elder Morthie
+/way #120 28.8 73.6 Elder Fargal
+/way #114 57.4 43.6 Elder Arp
+/way #114 33.8 34.2 Elder Northal
+/way #119 49.8 63.6 Elder Sandrene
+/way #119 63.8 49.0 Elder Wanikaya
+/way #116 80.6 37.0 Elder Lunaro
+/way #123 49.2 13.4 Elder Bluewolf – Inside Wintergrasp Keep
+/way #121 58.8 56.0 Elder Tauros
+/way #115 48.8 78.0 Elder Thoim
+/way #120 41.0 84.6 Elder Graymane
+/way #120 30.6 36.9 Elder Stonebeard – Inside building
+/way #114 43.0 49.4 Elder Pamuya
+/way #116 64.2 47.0 Elder Whurain
+/way #115 35.0 48.4 Elder Skywarden
+/way #120 64.6 51.2 Elder Muraco
+```
+
+<a name="northrenddungeons"/>
+
+### Northrend Dungeons
+</a>
+
+```markdown
+/way #117 58.0 50.0 Elder Jarten – Utgarde Keep entrance
+/way #114 27.5 26.2 Elder Igasho – Nexus entrance
+/way #115 26.1 50.6 Elder Nurgen – Azjol-Nerub entrance.
+/way #121 29.0 83.7 Elder Kilias –Drak’theron Keep entrance
+/way #121 76.4 21.5 Elder Ohanzee – Gundrak entrance
+/way #120 39.6 26.9 Elder Yurauk – Halls of Stone entrance
+/way #117 57.2 46.5 Elder Chogan’gada – Utgarde Pinnacle entrance
 ```
