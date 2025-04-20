@@ -104,7 +104,7 @@ Seasons in World of Warcraft and their respective dungeons.
 
 ## Season 2
 - Cinderbrew Meadery ☐
-- Darkflame Cleft ☐
+- Darkflame Cleft ☑︎
 - The Rookery ☐
 - Priory of Sacred Flame ☐
 - The MOTHERLODE!! (Battle for Azeroth) ☐
