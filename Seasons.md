@@ -108,7 +108,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - The Rookery ☐
 - Priory of Sacred Flame ☐
 - The MOTHERLODE!! (Battle for Azeroth) ☐
-- Operation: Floodgate ☐
+- Operation: Floodgate ☑︎
 - Theater of Pain (Shadowlands) ☐
 - Operation Mechagon: Workshop (Battle for Azeroth) ☐
 
