@@ -103,7 +103,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Grim Batol (Cataclysm) ☑︎
 
 ## Season 2
-- Cinderbrew Meadery ☐
+- Cinderbrew Meadery ☑︎
 - Darkflame Cleft ☑︎
 - The Rookery ☐
 - Priory of Sacred Flame ☐
