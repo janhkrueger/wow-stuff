@@ -25,7 +25,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Sanguine Depths ☐
 - Spires of Ascension ☐
 - The Necrotic Wake ☑︎
-- Theater of Pain ☐
+- Theater of Pain ☑︎
 
 ## Season 3
 - The Necrotic Wake ☑︎
@@ -33,7 +33,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Mists of Tirna Scithe ☑︎
 - Halls of Atonement ☐
 - Spires of Ascension ☐
-- Theater of Pain ☐
+- Theater of Pain ☑︎
 - De Other Side ☐
 - Sanguine Depths ☐
 - Tazavesh, the Veiled Market ☐
@@ -109,7 +109,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Priory of Sacred Flame ☐
 - The MOTHERLODE!! (Battle for Azeroth) ☐
 - Operation: Floodgate ☑︎
-- Theater of Pain (Shadowlands) ☐
+- Theater of Pain (Shadowlands) ☑︎
 - Operation Mechagon: Workshop (Battle for Azeroth) ☐
 
 
