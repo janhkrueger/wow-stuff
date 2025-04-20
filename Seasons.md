@@ -42,7 +42,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Tazavesh: Streets of Wonder (Shadowlands) ☐
 - Tazavesh: So'leah’s Gambit (Shadowlands) ☐
 - Operation Mechagon: Junkyard (Battle for Azeroth) ☐
-- Operation Mechagon: Workshop (Battle for Azeroth) ☐
+- Operation Mechagon: Workshop (Battle for Azeroth) ☑︎
 - Return to Karazhan: Lower (Legion) ☐
 - Return to Karazhan: Upper (Legion) ☐
 - Grimrail Depot (Warlords of Draenor) ☐
@@ -110,7 +110,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - The MOTHERLODE!! (Battle for Azeroth) ☐
 - Operation: Floodgate ☑︎
 - Theater of Pain (Shadowlands) ☑︎
-- Operation Mechagon: Workshop (Battle for Azeroth) ☐
+- Operation Mechagon: Workshop (Battle for Azeroth) ☑︎
 
 
 
