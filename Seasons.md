@@ -13,7 +13,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - [The War Within](#the-war-within)
   - [Season 1](#season-1-1)
   - [Season 2](#season-2-2)
-
+  - [Season 3](#season-3-2)
 
 # Shadowlands
 
@@ -112,6 +112,15 @@ Seasons in World of Warcraft and their respective dungeons.
 - Theater of Pain (Shadowlands) ☑︎
 - Operation Mechagon: Workshop (Battle for Azeroth) ☑︎
 
+## Season 3
+- Ara-Kara, City of Echoes ☑︎
+- Dawnbreaker ☑︎
+- Eco-Dome Al'dani ☐
+- Operation: Floodgate ☑︎
+- Priory of Sacred Flame ☑︎
+- Halls of Atonement(Shadowlands) ☐
+- Tazavesh: So'leah's Gambit (Shadowlands) ☐
+- Tazavesh: Streets of Wonder (Shadowlands) ☐
 
 
  #wow #warcraft
