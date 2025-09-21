@@ -120,7 +120,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Priory of Sacred Flame ☑︎
 - Halls of Atonement(Shadowlands) ☐
 - Tazavesh: So'leah's Gambit (Shadowlands) ☐
-- Tazavesh: Streets of Wonder (Shadowlands) ☐
+- Tazavesh: Streets of Wonder (Shadowlands) ☑︎
 
 
  #wow #warcraft
