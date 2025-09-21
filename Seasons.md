@@ -36,11 +36,11 @@ Seasons in World of Warcraft and their respective dungeons.
 - Theater of Pain ☑︎
 - De Other Side ☐
 - Sanguine Depths ☐
-- Tazavesh, the Veiled Market ☐
+- Tazavesh, the Veiled Market ☑︎
 
 ## Season 4
-- Tazavesh: Streets of Wonder (Shadowlands) ☐
-- Tazavesh: So'leah’s Gambit (Shadowlands) ☐
+- Tazavesh: Streets of Wonder (Shadowlands) ︎︎︎︎☑︎
+- Tazavesh: So'leah’s Gambit (Shadowlands) ☑︎
 - Operation Mechagon: Junkyard (Battle for Azeroth) ☐
 - Operation Mechagon: Workshop (Battle for Azeroth) ☑︎
 - Return to Karazhan: Lower (Legion) ☐
@@ -119,7 +119,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Operation: Floodgate ☑︎
 - Priory of Sacred Flame ☑︎
 - Halls of Atonement(Shadowlands) ☐
-- Tazavesh: So'leah's Gambit (Shadowlands) ☐
+- Tazavesh: So'leah's Gambit (Shadowlands) ☑︎
 - Tazavesh: Streets of Wonder (Shadowlands) ☑︎
 
 
