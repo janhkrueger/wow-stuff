@@ -19,7 +19,7 @@ Seasons in World of Warcraft and their respective dungeons.
 
 ## Season 2
 - De Other Side ☐
-- Halls of Atonement ☐
+- Halls of Atonement ☑︎
 - Mists of Tirna Scithe ☑︎
 - Plaguefall ☐
 - Sanguine Depths ☐
@@ -31,7 +31,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - The Necrotic Wake ☑︎
 - Plaguefall ☐
 - Mists of Tirna Scithe ☑︎
-- Halls of Atonement ☐
+- Halls of Atonement ☑︎
 - Spires of Ascension ☐
 - Theater of Pain ☑︎
 - De Other Side ☐
@@ -118,7 +118,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Eco-Dome Al'dani ︎︎☑︎
 - Operation: Floodgate ☑︎
 - Priory of Sacred Flame ☑︎
-- Halls of Atonement(Shadowlands) ☐
+- Halls of Atonement(Shadowlands) ☑︎
 - Tazavesh: So'leah's Gambit (Shadowlands) ☑︎
 - Tazavesh: Streets of Wonder (Shadowlands) ☑︎
 
