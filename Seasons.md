@@ -115,7 +115,7 @@ Seasons in World of Warcraft and their respective dungeons.
 ## Season 3
 - Ara-Kara, City of Echoes ☑︎
 - Dawnbreaker ☑︎
-- Eco-Dome Al'dani ☐
+- Eco-Dome Al'dani ︎︎☑︎
 - Operation: Floodgate ☑︎
 - Priory of Sacred Flame ☑︎
 - Halls of Atonement(Shadowlands) ☐
