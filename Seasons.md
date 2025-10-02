@@ -6,10 +6,10 @@ Seasons in World of Warcraft and their respective dungeons.
   - [Season 3](#season-3)
   - [Season 4](#season-4)
 - [Dragonflight](#dragonflight)
-  - [Season 1](#season-1)
-  - [Season 2](#season-2-1)
-  - [Season 3](#season-3-1)
-  - [Season 4](#season-4-1)
+  - [Season 1](#season-df-1)
+  - [Season 2](#season-df-2)
+  - [Season 3](#season-df-3)
+  - [Season 4](#season-df-4)
 - [The War Within](#the-war-within)
   - [Season 1](#season-tww-1)
   - [Season 2](#season-tww-2)
@@ -52,7 +52,8 @@ Seasons in World of Warcraft and their respective dungeons.
 
 # Dragonflight
 
-## Season 1
+<h2 id="season-df-1">Season 1</h2>
+
 - Ruby Life Pools ☑︎
 - Algeth'ar Academy ☑︎
 - The Azure Vault ☑︎
@@ -62,7 +63,8 @@ Seasons in World of Warcraft and their respective dungeons.
 - Shadowmoon Burial Grounds (Warlords of Draenor) ☐
 - Temple of the Jade Serpent (Mists of Pandaria) ☐
 
-## Season 2
+<h2 id="season-df-2">Season 2</h2>
+
 - Brackenhide Hollow ☑︎
 - Halls of Infusion ☑︎
 - Uldaman, Legacy of Tyr ☑︎
@@ -72,7 +74,8 @@ Seasons in World of Warcraft and their respective dungeons.
 - Neltharion’s Lair (Legion) ☐
 - Vortex Pinnacle (Cataclysm) ☐
 
-## Season 3
+<h2 id="season-df-3">Season 3</h2>
+
 - Dawn of the Infinites: Galakrond's Fall ☐
 - Dawn of the Infinites: Murozond's Rise ☐
 - Waycrest Manor (Battle for Azeroth) ☐
@@ -82,7 +85,8 @@ Seasons in World of Warcraft and their respective dungeons.
 - Everbloom (Warlords of Draenor) ☐
 - Throne of the Tides (Cataclysm) ☐ 
 
-## Season 4
+<h2 id="season-df-4">Season 4</h2>
+
 - Ruby Life Pools ☑︎
 - Brackenhide Hollow ☑︎
 - The Nokhud Offensive ☑︎
