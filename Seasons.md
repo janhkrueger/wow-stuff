@@ -11,9 +11,11 @@ Seasons in World of Warcraft and their respective dungeons.
   - [Season 3](#season-3-1)
   - [Season 4](#season-4-1)
 - [The War Within](#the-war-within)
-  - [Season 1](#season-1-1)
-  - [Season 2](#season-2-2)
-  - [Season 3](#season-3-2)
+  - [Season 1](#season-tww-1)
+  - [Season 2](#season-tww-2)
+  - [Season 3](#season-tww-3)
+- [Midnight](#midnight)
+    - [Season 1](#season-m-1)
 
 # Shadowlands
 
@@ -118,9 +120,20 @@ Seasons in World of Warcraft and their respective dungeons.
 - Eco-Dome Al'dani ︎︎☑︎
 - Operation: Floodgate ☑︎
 - Priory of Sacred Flame ☑︎
-- Halls of Atonement(Shadowlands) ☑︎
+- Halls of Atonement (Shadowlands) ☑︎
 - Tazavesh: So'leah's Gambit (Shadowlands) ☑︎
 - Tazavesh: Streets of Wonder (Shadowlands) ☑︎
 
+# Midnight
+
+<h2 id="#season-m-1">Season 1</h2>
+- Magister's Terrace (Midnight) ☐
+- Maisara Caverns (Midnight) ☐
+- Nexus Point Xenas (Midnight) ☐
+- Windrunner Spire (Midnight) ☐
+- Algeth'ar Academy (Dragonflight) ☑︎
+- Seat of the Triumvirate (Legion) ☐
+- Skyreach (Warlords of Draenor) ☐
+- Pit of Saron (Wrath of the Lich King) ☐
 
  #wow #warcraft
