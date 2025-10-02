@@ -2,9 +2,9 @@
 Seasons in World of Warcraft and their respective dungeons.
 
 - [Shadowlands](#shadowlands)
-  - [Season 2](#season-2)
-  - [Season 3](#season-3)
-  - [Season 4](#season-4)
+  - [Season 2](#season-sl-2)
+  - [Season 3](#season-sl-3)
+  - [Season 4](#season-sl-4)
 - [Dragonflight](#dragonflight)
   - [Season 1](#season-df-1)
   - [Season 2](#season-df-2)
@@ -19,7 +19,8 @@ Seasons in World of Warcraft and their respective dungeons.
 
 # Shadowlands
 
-## Season 2
+<h2 id="season-sl-2">Season 2</h2>
+
 - De Other Side ☐
 - Halls of Atonement ☑︎
 - Mists of Tirna Scithe ☑︎
@@ -29,7 +30,8 @@ Seasons in World of Warcraft and their respective dungeons.
 - The Necrotic Wake ☑︎
 - Theater of Pain ☑︎
 
-## Season 3
+<h2 id="season-sl-3">Season 3</h2>
+
 - The Necrotic Wake ☑︎
 - Plaguefall ☐
 - Mists of Tirna Scithe ☑︎
@@ -40,7 +42,8 @@ Seasons in World of Warcraft and their respective dungeons.
 - Sanguine Depths ☐
 - Tazavesh, the Veiled Market ☑︎
 
-## Season 4
+<h2 id="season-sl-4">Season 4</h2>
+
 - Tazavesh: Streets of Wonder (Shadowlands) ︎︎︎︎☑︎
 - Tazavesh: So'leah’s Gambit (Shadowlands) ☑︎
 - Operation Mechagon: Junkyard (Battle for Azeroth) ☐
