@@ -126,7 +126,7 @@ Seasons in World of Warcraft and their respective dungeons.
 
 # Midnight
 
-<h2 id="#season-m-1">Season 1</h2>
+<h2 id="season-m-1">Season 1</h2>
 - Magister's Terrace (Midnight) ☐
 - Maisara Caverns (Midnight) ☐
 - Nexus Point Xenas (Midnight) ☐
