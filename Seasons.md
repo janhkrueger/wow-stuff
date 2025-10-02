@@ -94,7 +94,8 @@ Seasons in World of Warcraft and their respective dungeons.
 
 # The War Within
 
-## Season 1
+<h2 id="season-tww-1">Season 1</h2>
+
 - Ara-Kara, City of Echoes ☑︎
 - City of Threads ☑︎
 - The Stonevault ☑︎
@@ -104,7 +105,8 @@ Seasons in World of Warcraft and their respective dungeons.
 - Siege of Boralus (Battle for Azeroth) ☑︎
 - Grim Batol (Cataclysm) ☑︎
 
-## Season 2
+<h2 id="season-tww-2">Season 2</h2>
+
 - Cinderbrew Meadery ☑︎
 - Darkflame Cleft ☑︎
 - The Rookery ☑︎
@@ -114,7 +116,8 @@ Seasons in World of Warcraft and their respective dungeons.
 - Theater of Pain (Shadowlands) ☑︎
 - Operation Mechagon: Workshop (Battle for Azeroth) ☑︎
 
-## Season 3
+<h2 id="season-tww-3">Season 3</h2>
+
 - Ara-Kara, City of Echoes ☑︎
 - Dawnbreaker ☑︎
 - Eco-Dome Al'dani ︎︎☑︎
@@ -127,6 +130,7 @@ Seasons in World of Warcraft and their respective dungeons.
 # Midnight
 
 <h2 id="season-m-1">Season 1</h2>
+
 - Magister's Terrace (Midnight) ☐
 - Maisara Caverns (Midnight) ☐
 - Nexus Point Xenas (Midnight) ☐
