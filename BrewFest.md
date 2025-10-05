@@ -2,6 +2,8 @@
 
 ## BAR TAB BARRELS
 
+You can copy all locations into tomtom with /ttpaste and then get the shortest distance to the next point with /cway.
+
 ### Khaz-Algar
 
 #### The Isle of Dorn
@@ -28,24 +30,15 @@
 
 ### Dragon Isles
 
-#### Valdrakken
 /way #2112 47.9 46.7 Valdrakken  
-
-#### Thaldraszus
 /way #2025 52.2 81.5 Eon's Fringe  
 /way #2025 50.1 42.7 Algeth'era Court  
-
-#### The Waking Shores
 /way #2022 76.4 35.4 Wingrest Embassy  
 /way #2022 58.3 67.5 Ruby Lifeshrine  
 /way #2022 47.7 83.3 Dragonscale Basecamp - outside  
-
-#### Ohn'ahran Plains
 /way #2023 85.8 35.3 Rusza'Thar Reach  
 /way #2023 59.8 38.7 Maruukai - Tent  
 /way #2023 28.6 60.4 Shady Sanctuary  
-
-#### The Azure Span
 /way #2024 12.4 49.3 Iskaara - down  
 /way #2024 46.9 40.2 Camp Antonidas  
 /way #2024 62.8 57.7 Camp Nowhere  
