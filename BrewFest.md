@@ -6,16 +6,18 @@ You can copy all locations into tomtom with /ttpaste and then get the shortest d
 
 ### Khaz-Algar
 
-/way #2339 44.1 47.9 Stonelight Rest  
-/way #2248 41.9 73.6 Freywold Village  
-/way #2215 49.1 40.0 Fjord Tavern at Lorel's Crossing  
-/way #2215 42.6 55.7 Empire's Edge Tavern in Mereldar  
-/way #2214 63.4 78.8 Opportunity Point  
-/way #2214 47.7 32.2 Gundargaz  
-/way #2255 56.6 40.3 The Trap Door in the Weaver's Lair  
-/way #2255 77.8 62.7 Rock Bottom Inn in Mmarl  
-/way #2213 57.7 39.9 The Cobwebs in the Burrows  
-/way #2213 51.5 22.0 The Skittering Lounge in the Umbral Bazaar  
+/way #2339 44.13 45.95 Dornogal (Downstairs)  
+/way #2248 41.86 74.26 Freywold Village (Downstairs)  
+/way #2214 44.12 32.17 Gundargaz  
+/way #2214 59.20 78.82 Opportunity Point  
+/way #2215 49.22 39.53 Lorel's Crossing  
+/way #2215 42.76 55.79 Mereldar  
+/way #2255 56.72 38.72 The Weaver's Lair  
+/way #2255 77.80 62.74 Mmarl  
+/way #2213 49.86 21.53 City of Threads (Umbral Bazaar)  
+/way #2213 57.74 39.89 City of Threads (The Burrows - Downstairs)  
+
+https://www.wowhead.com/de/achievement=41212/eine-runde-aufs-haus-in-khaz-algar#comments:id=6187522
 
 ### Dragon Isles
 
