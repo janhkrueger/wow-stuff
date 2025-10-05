@@ -1,6 +1,6 @@
 # Brewfest
 
-## BAR TAB BARRELS
+## Bar Tab Barrels
 
 You can copy all locations into tomtom with /ttpaste and then get the shortest distance to the next point with /cway.
 
