@@ -36,3 +36,39 @@
 /way #864 57.06 11.20 Lost Offerings of Kimbul (On the top of the temple, enter from right side)  
 /way #864 26.49 45.36 Sandsunken Treasure (Use Abandoned Bobber)  
 ```
+
+## Gläserne Samtpfötchen
+#### Feline Figurines Found
+
+```markdown
+/way #1355 29.53 29.67 Entrance to 56983
+/way #1355 28.76 29.11 Cat Figurine 56983
+
+/way #1355 61.41 28.04 Entrance to 56984
+/way #1355 61.07 26.80 Cat Figurine 56984
+
+/way #1355 58.31 29.13 Entrance to 56985
+/way #1355 59.09 30.51 Cat Figurine 56985
+
+/way #1355 55.47 28.63 Entrance to 56986
+/way #1355 55.33 27.08 Cat Figurine 56986
+
+/way #1355 40.41 80.95 Entrance to 56987
+/way #1355 40.16 86.16 Cat Figurine 56987
+
+/way #1355 70.82 24.62 Entrance to 56988
+/way #1355 71.37 23.71 Cat Figurine 56988
+
+/way #1355 38.97 49.29 Entrance to 56989
+/way #1355 38.01 49.26 Cat Figurine 56989
+
+/way #1355 57.36 22.09 Entrance to 56990
+/way #1355 58.15 22.04 Cat Figurine 56990
+
+/way #1355 61.26 11.63 Entrance to 56991
+/way #1355 61.59 10.83 Cat Figurine 56991
+
+/way #1355 72.79 25.87 Entrance to 56992
+/way #1355 73.58 25.86 Cat Figurine56992
+```
+
