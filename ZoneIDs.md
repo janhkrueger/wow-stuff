@@ -1,19 +1,21 @@
 # Zones
 
 ## The War Within
-Dornogal #2339  
-Isle of Dorn #2248  
-The Ringing Deeps #2214  
-Hallowfall #2215  
-Azj-Kahet #2255  
-City of Threads Umbral Bazaar #2213  
-The Proscenium #2328  
-Ara-Kara City of Echoes is #2216  
-Ara-Kara City of Threads is #2255  
-Siren Isle #2369  
-Undermine #2346  
-K'aresh #2371  
-Tazavesh #2472  
+```markdown
+Dornogal #2339
+Isle of Dorn #2248
+The Ringing Deeps #2214
+Hallowfall #2215
+Azj-Kahet #2255
+City of Threads Umbral Bazaar #2213
+The Proscenium #2328
+Ara-Kara City of Echoes is #2216
+Ara-Kara City of Threads is #2255
+Siren Isle #2369
+Undermine #2346
+K'aresh #2371
+Tazavesh #2472
+```
 
 ## Dragonflight
 Waking Shore #2022
