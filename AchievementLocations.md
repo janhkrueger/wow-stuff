@@ -1,5 +1,6 @@
 
-## A Loa of a Tale
+## Aus dem Leben eines Loas
+### A Loa of a Tale
 
 ```markdown
 /way #863 39.12 38.65 Tales of de Loa: Bwonsamdi  
@@ -19,7 +20,8 @@
 /way #862 75.5 67.6 Tales of de Loa: Gral
 ```
 
-## Treasures of Vol'dun
+## Schätze von Vol'dun
+### Treasures of Vol'dun
 
 ```markdown
 /way #864 46.59 88.01 Ashvane Spoils (Use Mine Cart)  
