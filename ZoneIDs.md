@@ -18,6 +18,7 @@ Tazavesh #2472
 ```
 
 ## Dragonflight
+```markdown
 Waking Shore #2022
 Ohn'ahran Plains #2023
 The Azure Span #2024
@@ -27,8 +28,10 @@ Forbidden Reach #2151
 Zarelek Cavern #2133
 Emerald Dream #2200
 Bel'ameth (in Ohn'ahran Plains side of the portal) #2239
+```
 
 ## Shadowlands
+```markdown
 Overall Shadownlands Map #1550 (when you are traveling between zones)
 Ardenweald #1565
 Bastian #1533
@@ -39,8 +42,10 @@ Oribos FP & Portals level #1671
 Korthia #1961
 The Maw #1543
 Zereth Mortis #1970
+```
 
 ## Battle for Azeroth
+```markdown
 Boralus #1161
 Drustvar #896
 Stormsong Valley #942
@@ -56,8 +61,10 @@ Darkshore #62
 Tirisfal Glades #2070
 Uldum #1527
 Vale of Eternal Blossoms #1530
+```
 
 ## Legion
+```markdown
 Argus: Antoran Wastes #885
 Argus: Eredath #882
 Argus: Krokuun #830
@@ -75,8 +82,10 @@ Thundertotem #652 but #750 is also valid for some uses. Try 652 first.
 Val'sharah #641
 Val'sharah Dreamgrove #747
 Val'sharah Emerald Dreamway #715
+```
 
 ## Warlords Of Draenor
+```markdown
 Ashran #588
 Frostfire Ridge #525
 Gorgrond #543
@@ -91,8 +100,10 @@ Garrison - Horde #590
 Garrison - Alliance #582
 Mists of Pandaria
 Dread Wastes #422
+```
 
-Isle of Thunder #
+# Pandaria
+```markdown
 Krasarang Wilds #418
 Kun-Lai Summit #379
 Shrine of the Seven Stars #390
@@ -103,8 +114,10 @@ Timeless Isle #554
 Townlong Steppes #388
 Vale of Eternal Blossoms #390
 Valley of the Four Winds #376
+```
 
 # Cataclysm
+```markdown
 Deepholm #207
 Mount Hyjal #198
 Tol Barad #245
@@ -113,8 +126,10 @@ Uldum #249
 Vashj"ir: Kelp'thar Forest #201
 Vashj"ir: Shimmering Expanse #205
 Vashj"ir: Abyssal Depths #204
+```
 
 ## Wrath of the Lich King
+```markdown
 Borean Tundra #114
 Crystalsong Forest #127
 Dalaran #125
@@ -127,8 +142,10 @@ Sholazar Basin #119
 The Storm Peaks #120
 Wintergrasp #123
 Zul' Drak #121
+```
 
 ## Burning Crusade
+```markdown
 Outland (Twisting Nether) #101
 Blades Edge Mountains #105
 Hellfire Penninsula #100
@@ -145,8 +162,10 @@ Isle of Quel'Danas #122
 The Exodar #103
 Azuremyst Isle #97
 Bloodmyst Isle #106
+```
 
 ## Kalimdor
+```markdown
 Kalimdor #12
 Ashenvale #63
 Azshara #76
@@ -177,8 +196,10 @@ Thousand Needles #64
 Uldum #249
 Un'Goro Crater #78
 Winterspring #83
+```
 
 ## Eastern Kingdons
+```markdown
 Eastern Kingdoms #13
 Abyssal Depths #204
 Arathi Highlands #14
@@ -220,6 +241,9 @@ Vashj"ir: Abyssal Depths #204
 Western Plaguelands #22
 Westfall #52
 Wetlands #56
+```
 
 ## Darkmoon Faire
+```markdown
 Darkmoon Island #407
+```
