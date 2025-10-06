@@ -6,6 +6,7 @@ You can copy all locations into tomtom with /ttpaste and then get the shortest d
 
 ### Khaz-Algar
 
+```markdown
 /way #2339 44.13 45.95 Dornogal (Downstairs)  
 /way #2248 41.86 74.26 Freywold Village (Downstairs)  
 /way #2214 44.12 32.17 Gundargaz  
@@ -16,11 +17,13 @@ You can copy all locations into tomtom with /ttpaste and then get the shortest d
 /way #2255 77.80 62.74 Mmarl  
 /way #2213 49.86 21.53 City of Threads (Umbral Bazaar)  
 /way #2213 57.74 39.89 City of Threads (The Burrows - Downstairs)  
+```
 
-https://www.wowhead.com/de/achievement=41212/eine-runde-aufs-haus-in-khaz-algar#comments:id=6187522
+Source: https://www.wowhead.com/de/achievement=41212/eine-runde-aufs-haus-in-khaz-algar#comments:id=6187522
 
 ### Dragon Isles
 
+```markdown
 /way #2112 47.9 46.7 Valdrakken  
 /way #2025 52.2 81.5 Eon's Fringe  
 /way #2025 50.1 42.7 Algeth'era Court  
@@ -32,4 +35,5 @@ https://www.wowhead.com/de/achievement=41212/eine-runde-aufs-haus-in-khaz-algar#
 /way #2023 28.6 60.4 Shady Sanctuary  
 /way #2024 12.4 49.3 Iskaara - down  
 /way #2024 46.9 40.2 Camp Antonidas  
-/way #2024 62.8 57.7 Camp Nowhere  
+/way #2024 62.8 57.7 Camp Nowhere
+```
