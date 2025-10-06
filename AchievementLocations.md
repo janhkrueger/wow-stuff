@@ -1,6 +1,7 @@
 
 ## A Loa of a Tale
 
+```markdown
 /way #863 39.12 38.65 Tales of de Loa: Bwonsamdi  
 /way #863 39.57 54.67 Tales of de Loa: Hir'eek  
 /way #863 58.92 48.65 Tales of de Loa: Krag'wa  
@@ -15,9 +16,12 @@
 /way #862 49.00 41.29 Tales of de Loa: Pa'ku  
 /way #862 51.69 28.25 Tales of de Loa: Gonk  
 /way #862 67.28 17.62 Tales of de Loa: Torcali  
-/way #862 75.5 67.6 Tales of de Loa: Gral  
+/way #862 75.5 67.6 Tales of de Loa: Gral
+```
 
 ## Treasures of Vol'dun
+
+```markdown
 /way #864 46.59 88.01 Ashvane Spoils (Use Mine Cart)  
 /way #864 44.33 92.22 Ashvane Spoils  
 /way #864 49.78 79.40 Lost Explorer's Bounty (Climb the arc)  
@@ -31,3 +35,4 @@
 /way #864 56.69 64.69 Excavator's Greed (Entrance)  
 /way #864 57.06 11.20 Lost Offerings of Kimbul (On the top of the temple, enter from right side)  
 /way #864 26.49 45.36 Sandsunken Treasure (Use Abandoned Bobber)  
+```
