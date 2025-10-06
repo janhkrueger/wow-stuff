@@ -74,3 +74,13 @@
 /way #1355 73.58 25.86 Cat Figurine56992
 ```
 
+### Dünenreiter
+#### Dune Rider
+
+```markdown
+/way Vol'dun 38.03 70.97 Rickety Plank Vol'dun
+/way Vol'dun 32.12 69.08 Rickety Plank Vol'dun 2
+/way Vol'dun 47.90 62.49 Rickety Plank Atul'Aman
+/way Vol'dun 45.78 63.58 Rickety Plank Atul'Aman 2 (Along the pyramid edge)
+/way Vol'dun 54.90 21.36 Rickety Plank Skycallers' Spire (On top of the slither snake)
+```
