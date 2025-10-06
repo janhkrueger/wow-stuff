@@ -20,6 +20,10 @@ They will also not covered further here.
 
 In both major faction cities, Stormwind and Orgrimmar and also in both BfA hubs, Boralus and Dazar'alor are dedicated rooms with portals for every member of the faction free to use. They will also not covered here.
 
+## Mystic+ Season Portals
+
+In the major hub for the expansion, there is a dedicated room with portals to the dungeons of older expansions which can speed up travelling also a lot.
+
 ## Toys
 
 | Item                                  | Location                           | Requirement     |
