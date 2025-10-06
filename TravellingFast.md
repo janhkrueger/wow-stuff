@@ -31,6 +31,9 @@ In the major hub for the expansion, there is a dedicated room with portals to th
 | The Schools of Arcane Magic - Mastery | Top of Dalaran, when in Dalaran    | Higher Learning |
 | Dimensional Ripper - Everlook | Everlook, Winterspring   | Goblin Engineer  |
 | Ultrasafe Transporter: Gadgetzan | Gadgetzan, Tanaris | Gnomish Engineer |
+| Delve-O-Bot 7001 | Sir Finley Mrrgglton | 5000 Undercoins |
+|                  | Reno Jackson | 10 Resonance Crystals when playing Delves TWW Season 2 |
+
 
 ## Other items
 
