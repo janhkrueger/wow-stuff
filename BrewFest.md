@@ -2,8 +2,12 @@
 
 ## Bar Tab Barrels
 
+[Khaz-Algar](#khazalgar)  
+[Dragon Isles](#dragonisles)  
+
 You can copy all locations into tomtom with /ttpaste and then get the shortest distance to the next point with /cway.
 
+<a name="khazalgar"/>
 ### Khaz-Algar
 
 ```markdown
@@ -21,6 +25,8 @@ You can copy all locations into tomtom with /ttpaste and then get the shortest d
 
 Source: https://www.wowhead.com/de/achievement=41212/eine-runde-aufs-haus-in-khaz-algar#comments:id=6187522
 
+
+<a name="dragonisles"/>
 ### Dragon Isles
 
 ```markdown
