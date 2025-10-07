@@ -124,10 +124,19 @@ Secret of the Depths Find 5 Damp Scrolls and speak with the Ominous Altar
 /way #895 74.03 84.16 Singed Treasure Map (Drops from Freehold pirates)
 /way #895 48.98 37.59 Chest for Singed Treasure Map
 
-/way #1161 61.51 83.82 Underwater cave entrance
-/way #1161 55.97 91.26 Inside underwater cave
+
 /way #1161 61.52 77.72 In the basement
 /way #1161 70.32 85.76 In the basement 2
 /way #1161 67.14 79.82 Near candles under the wooden platform
 /way #1161 63.07 81.86 2-nd floor
+/way #1161 61.51 83.82 Underwater cave entrance
+/way #1161 55.97 91.26 Inside underwater cave
+```
+
+
+### Ein "Tirisch Kuler" Tanz
+#### Kul Tiran Up the Dance Floor
+
+```markdown
+/way #895 50.30 25.10
 ```
