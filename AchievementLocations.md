@@ -107,6 +107,8 @@
 ### Schätze des Tiragardesunds
 #### Treasures of Tiragarde Sound
 
+Secret of the Depths Find 5 Damp Scrolls and speak with the Ominous Altar
+
 ```markdown
 /way #895 61.51 52.33 Hay Covered Chest (Ride the Guardian)
 /way #895 56.03 33.19 Precarious Noble Cache
@@ -121,4 +123,11 @@
 /way #895 29.22 25.34 Chest for Faded Treasure Map
 /way #895 74.03 84.16 Singed Treasure Map (Drops from Freehold pirates)
 /way #895 48.98 37.59 Chest for Singed Treasure Map
+
+/way Boralus 55.97 91.26 Inside underwater cave
+/way Boralus 61.52 77.72 In the basement
+/way Boralus 70.32 85.76 In the basement 2
+/way Boralus 67.14 79.82 Near candles under the wooden platform
+/way Boralus 63.07 81.86 2-nd floor
+/way Boralus 61.51 83.82 Underwater cave entrance
 ```
