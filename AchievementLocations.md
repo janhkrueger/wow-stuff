@@ -84,3 +84,22 @@
 /way Vol'dun 45.78 63.58 Rickety Plank Atul'Aman 2 (Along the pyramid edge)
 /way Vol'dun 54.90 21.36 Rickety Plank Skycallers' Spire (On top of the slither snake)
 ```
+
+### Ob groß, ob klein, nur die Liebe lässt Tierchen gedeih'n
+#### To All the Squirrels I Set Sail to See
+
+```markdown
+/way #942 45.87, 62.73 Honey Bee
+/way #942 25.83, 70.26 Olivewing
+/way #895 77.72, 47.90 Tiragarde Gull
+/way #895 84.76, 77.74 Fluttering Softwing
+/way #896 59.81, 21.85 Bramble Hare
+/way #896 53.09, 30.50 Drustbat
+
+/way #863 30.30, 66.91 Bloodfever Tarantula
+/way #863 48.01, 69.10 Nazmani Weevil
+/way #864 52.75, 83.73 Vale Flutterby
+/way #862 67.11, 41.89 Crested Gekkota
+/way #862 62.72, 16.52 Jungle Gulper
+/way #1165 43.53, 36.77 Temple Beetle
+```
