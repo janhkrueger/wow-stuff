@@ -103,3 +103,22 @@
 /way #862 62.72, 16.52 Jungle Gulper
 /way #1165 43.53, 36.77 Temple Beetle
 ```
+
+### Schätze des Tiragardesunds
+#### Treasures of Tiragarde Sound
+
+```markdown
+/way #895 61.51 52.33 Hay Covered Chest (Ride the Guardian)
+/way #895 56.03 33.19 Precarious Noble Cache
+/way #895 72.48 21.69 Scrimshaw Cache (Bolarus north cave)
+/way #895 74.03 84.16 Soggy Treasure Map (Drops from Freehold pirates)
+/way #895 54.99 46.08 Chest for Soggy Treasure Map
+/way #895 74.03 84.16 Yellowed Treasure Map (Drops from Freehold pirates)
+/way #895 90.50 75.51 Chest for Yellowed Treasure Map
+/way #895 72.49 58.14 Cutwater Treasure Chest
+/way #895 61.78 62.75 Forgotten Smuggler's Stash (Inside the cave)
+/way #895 74.03 84.16 Faded Treasure Map (Drops from Freehold pirates)
+/way #895 29.22 25.34 Chest for Faded Treasure Map
+/way #895 74.03 84.16 Singed Treasure Map (Drops from Freehold pirates)
+/way #895 48.98 37.59 Chest for Singed Treasure Map
+```
