@@ -74,7 +74,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Neltharus ☑︎
 - Freehold (Battle for Azeroth) ☐
 - The Underrot (Battle for Azeroth) ☐
-- Neltharion’s Lair (Legion) ☐
+- Neltharion’s Lair (Legion) ☑︎
 - Vortex Pinnacle (Cataclysm) ☐
 
 <h2 id="season-df-3">Season 3</h2>
