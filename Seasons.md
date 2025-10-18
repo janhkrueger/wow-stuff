@@ -84,7 +84,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Waycrest Manor (Battle for Azeroth) ☐
 - Atal'Dazar (Battle for Azeroth) ☐
 - Darkheart Thicket (Legion) ☐
-- Black Rook Hold (Legion) ☐
+- Black Rook Hold (Legion) ☑︎
 - Everbloom (Warlords of Draenor) ☐
 - Throne of the Tides (Cataclysm) ☐ 
 
