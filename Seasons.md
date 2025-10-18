@@ -61,7 +61,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Algeth'ar Academy ☑︎
 - The Azure Vault ☑︎
 - The Nokhud Offensive ☑︎
-- Halls of Valor (Legion) ☐
+- Halls of Valor (Legion) ☑︎
 - Court of Stars (Legion) ☐
 - Shadowmoon Burial Grounds (Warlords of Draenor) ☐
 - Temple of the Jade Serpent (Mists of Pandaria) ☐
