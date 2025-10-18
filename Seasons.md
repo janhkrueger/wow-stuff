@@ -83,7 +83,7 @@ Seasons in World of Warcraft and their respective dungeons.
 - Dawn of the Infinites: Murozond's Rise ☐
 - Waycrest Manor (Battle for Azeroth) ☐
 - Atal'Dazar (Battle for Azeroth) ☐
-- Darkheart Thicket (Legion) ☐
+- Darkheart Thicket (Legion) ☑︎
 - Black Rook Hold (Legion) ☑︎
 - Everbloom (Warlords of Draenor) ☐
 - Throne of the Tides (Cataclysm) ☐ 
